@@ -42,7 +42,8 @@
 .item {
   list-style: none;
 }
-.item__input ,.item__button {
+.item__input ,
+.item__button {
   outline: none;
 }
 .item__button {
